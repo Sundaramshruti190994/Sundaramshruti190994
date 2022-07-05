@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shruti Sundaram - @Sundaramshruti190994
-- 👀 I’m interested in 
+- 👀 I’m interested in learning and going forward with github
 - 🌱 I’m currently learning SQL, Tableau, ML, DL, and a bit of life 
 - 💞️ I’m looking to collaborate on joining group for competitions
 - 📫 How to reach me, send a message on my Facebook profile - https://www.facebook.com/shru.1909/ 
